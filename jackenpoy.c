@@ -1,4 +1,3 @@
-#include <stdlib.h>      // stdlib needed for getch
 #include <ncurses.h>     // ncurses library
 /* Internal function declarations   */
 
